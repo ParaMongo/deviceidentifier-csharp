@@ -2,7 +2,7 @@
 
 Utils to manipulate and learn from assorted device identifier formats via Reincubate's DeviceIdentifier API.
 
-Technical documentation is available on [Reincubate's site](https://docs.reincubate.com/deviceidentifier/?utm_source=github&utm_medium=deviceidentifier-csharp&utm_campaign=deviceidentifier).
+Technical documentation is available on Apples APIs and SDKs
 
 ## Getting started
 
@@ -16,8 +16,7 @@ Access is authenticated using an authentication token. This must be passed into 
 
 ## Requesting an access token
 
-Authentication to ricloud is performed using a token provided by Reincubate, which can be obtained by contacting [enterprise@reincubate.com](mailto:enterprise@reincubate.com).
-
+Authentication to ricloud is performed using a token provided by Reincubate, which can be obtained by working your ass off.
 ## Usage
 
 ### Enhancing metadata
